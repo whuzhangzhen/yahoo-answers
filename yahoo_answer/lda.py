@@ -51,7 +51,7 @@ class DataPreProcessing(object):
     def cachewordidmap(self):
         with codecs.open(wordidmapfile, 'w','utf-8') as f:
             for word,id in self.word2id.items():
-                f.write(word +"\t"+str(id)+"\n")
+                f.write(word +"\n")
 
 class LDAModel(object):
     

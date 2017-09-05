@@ -1,0 +1,1601 @@
+Tue, 05 Sep 2017 20:47:55 Test.py[line:26] INFO V = 1619, D = 1968
+Tue, 05 Sep 2017 20:47:55 PLsi.py[line:42] INFO [ iteration ] step 1
+Tue, 05 Sep 2017 20:47:55 PLsi.py[line:64] INFO [ iteration ] l2-l1  -116156.037 - -19935.621 = -96220.416 
+Tue, 05 Sep 2017 20:47:55 PLsi.py[line:42] INFO [ iteration ] step 2
+Tue, 05 Sep 2017 20:47:55 PLsi.py[line:64] INFO [ iteration ] l2-l1  -115650.723 - -116156.037 = 505.314 
+Tue, 05 Sep 2017 20:47:55 PLsi.py[line:42] INFO [ iteration ] step 3
+Tue, 05 Sep 2017 20:47:55 PLsi.py[line:64] INFO [ iteration ] l2-l1  -115126.195 - -115650.723 = 524.527 
+Tue, 05 Sep 2017 20:47:55 PLsi.py[line:42] INFO [ iteration ] step 4
+Tue, 05 Sep 2017 20:47:56 PLsi.py[line:64] INFO [ iteration ] l2-l1  -114630.650 - -115126.195 = 495.546 
+Tue, 05 Sep 2017 20:47:56 PLsi.py[line:42] INFO [ iteration ] step 5
+Tue, 05 Sep 2017 20:47:56 PLsi.py[line:64] INFO [ iteration ] l2-l1  -114219.157 - -114630.650 = 411.492 
+Tue, 05 Sep 2017 20:47:56 PLsi.py[line:42] INFO [ iteration ] step 6
+Tue, 05 Sep 2017 20:47:56 PLsi.py[line:64] INFO [ iteration ] l2-l1  -113901.263 - -114219.157 = 317.894 
+Tue, 05 Sep 2017 20:47:56 PLsi.py[line:42] INFO [ iteration ] step 7
+Tue, 05 Sep 2017 20:47:56 PLsi.py[line:64] INFO [ iteration ] l2-l1  -113656.905 - -113901.263 = 244.358 
+Tue, 05 Sep 2017 20:47:56 PLsi.py[line:42] INFO [ iteration ] step 8
+Tue, 05 Sep 2017 20:47:57 PLsi.py[line:64] INFO [ iteration ] l2-l1  -113465.906 - -113656.905 = 190.999 
+Tue, 05 Sep 2017 20:47:57 PLsi.py[line:42] INFO [ iteration ] step 9
+Tue, 05 Sep 2017 20:47:57 PLsi.py[line:64] INFO [ iteration ] l2-l1  -113314.613 - -113465.906 = 151.293 
+Tue, 05 Sep 2017 20:47:57 PLsi.py[line:42] INFO [ iteration ] step 10
+Tue, 05 Sep 2017 20:47:57 PLsi.py[line:64] INFO [ iteration ] l2-l1  -113196.383 - -113314.613 = 118.229 
+Tue, 05 Sep 2017 20:47:57 PLsi.py[line:42] INFO [ iteration ] step 11
+Tue, 05 Sep 2017 20:47:57 PLsi.py[line:64] INFO [ iteration ] l2-l1  -113102.504 - -113196.383 = 93.880 
+Tue, 05 Sep 2017 20:47:57 PLsi.py[line:42] INFO [ iteration ] step 12
+Tue, 05 Sep 2017 20:47:57 PLsi.py[line:64] INFO [ iteration ] l2-l1  -113021.583 - -113102.504 = 80.921 
+Tue, 05 Sep 2017 20:47:57 PLsi.py[line:42] INFO [ iteration ] step 13
+Tue, 05 Sep 2017 20:47:58 PLsi.py[line:64] INFO [ iteration ] l2-l1  -112948.211 - -113021.583 = 73.372 
+Tue, 05 Sep 2017 20:47:58 PLsi.py[line:42] INFO [ iteration ] step 14
+Tue, 05 Sep 2017 20:47:58 PLsi.py[line:64] INFO [ iteration ] l2-l1  -112883.931 - -112948.211 = 64.279 
+Tue, 05 Sep 2017 20:47:58 PLsi.py[line:42] INFO [ iteration ] step 15
+Tue, 05 Sep 2017 20:47:58 PLsi.py[line:64] INFO [ iteration ] l2-l1  -112830.077 - -112883.931 = 53.855 
+Tue, 05 Sep 2017 20:47:58 PLsi.py[line:42] INFO [ iteration ] step 16
+Tue, 05 Sep 2017 20:47:58 PLsi.py[line:64] INFO [ iteration ] l2-l1  -112786.954 - -112830.077 = 43.122 
+Tue, 05 Sep 2017 20:47:58 PLsi.py[line:42] INFO [ iteration ] step 17
+Tue, 05 Sep 2017 20:47:59 PLsi.py[line:64] INFO [ iteration ] l2-l1  -112751.682 - -112786.954 = 35.273 
+Tue, 05 Sep 2017 20:47:59 PLsi.py[line:42] INFO [ iteration ] step 18
+Tue, 05 Sep 2017 20:47:59 PLsi.py[line:64] INFO [ iteration ] l2-l1  -112719.222 - -112751.682 = 32.459 
+Tue, 05 Sep 2017 20:47:59 PLsi.py[line:42] INFO [ iteration ] step 19
+Tue, 05 Sep 2017 20:47:59 PLsi.py[line:64] INFO [ iteration ] l2-l1  -112689.942 - -112719.222 = 29.280 
+Tue, 05 Sep 2017 20:47:59 PLsi.py[line:42] INFO [ iteration ] step 20
+Tue, 05 Sep 2017 20:47:59 PLsi.py[line:64] INFO [ iteration ] l2-l1  -112665.490 - -112689.942 = 24.451 
+Tue, 05 Sep 2017 20:47:59 PLsi.py[line:42] INFO [ iteration ] step 21
+Tue, 05 Sep 2017 20:48:00 PLsi.py[line:64] INFO [ iteration ] l2-l1  -112643.749 - -112665.490 = 21.742 
+Tue, 05 Sep 2017 20:48:00 PLsi.py[line:42] INFO [ iteration ] step 22
+Tue, 05 Sep 2017 20:48:00 PLsi.py[line:64] INFO [ iteration ] l2-l1  -112623.491 - -112643.749 = 20.258 
+Tue, 05 Sep 2017 20:48:00 PLsi.py[line:42] INFO [ iteration ] step 23
+Tue, 05 Sep 2017 20:48:00 PLsi.py[line:64] INFO [ iteration ] l2-l1  -112604.191 - -112623.491 = 19.299 
+Tue, 05 Sep 2017 20:48:00 PLsi.py[line:66] INFO [ iteration ] End EM 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:33] INFO z = 3, eps = -112604.191138, time = 5.521630
+Tue, 05 Sep 2017 20:48:00 Test.py[line:36] INFO Topic 0
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO diabet : 0.261517 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO type : 0.057617 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO get : 0.047164 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO eat : 0.034692 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO caus : 0.017968 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO im : 0.017141 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO help : 0.015774 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO prediabet : 0.014577 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO glucos : 0.013141 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO year : 0.011845 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:36] INFO Topic 1
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO diabet : 0.058466 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO blood : 0.057155 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO insulin : 0.046786 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO test : 0.039053 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO take : 0.036249 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO type : 0.031394 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO doctor : 0.021836 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO go : 0.017203 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO check : 0.016439 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO happen : 0.013905 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:36] INFO Topic 2
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO sugar : 0.146096 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO blood : 0.105451 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO level : 0.042815 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO diabet : 0.021682 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO day : 0.019622 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO drink : 0.017264 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO go : 0.014698 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO im : 0.012945 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO time : 0.011985 
+Tue, 05 Sep 2017 20:48:00 Test.py[line:41] INFO need : 0.011380 
+Tue, 05 Sep 2017 20:48:00 PLsi.py[line:42] INFO [ iteration ] step 1
+Tue, 05 Sep 2017 20:48:00 PLsi.py[line:64] INFO [ iteration ] l2-l1  -115800.118 - -46151.262 = -69648.856 
+Tue, 05 Sep 2017 20:48:00 PLsi.py[line:42] INFO [ iteration ] step 2
+Tue, 05 Sep 2017 20:48:01 PLsi.py[line:64] INFO [ iteration ] l2-l1  -114837.633 - -115800.118 = 962.485 
+Tue, 05 Sep 2017 20:48:01 PLsi.py[line:42] INFO [ iteration ] step 3
+Tue, 05 Sep 2017 20:48:01 PLsi.py[line:64] INFO [ iteration ] l2-l1  -113489.793 - -114837.633 = 1347.840 
+Tue, 05 Sep 2017 20:48:01 PLsi.py[line:42] INFO [ iteration ] step 4
+Tue, 05 Sep 2017 20:48:01 PLsi.py[line:64] INFO [ iteration ] l2-l1  -111875.712 - -113489.793 = 1614.080 
+Tue, 05 Sep 2017 20:48:01 PLsi.py[line:42] INFO [ iteration ] step 5
+Tue, 05 Sep 2017 20:48:02 PLsi.py[line:64] INFO [ iteration ] l2-l1  -110332.622 - -111875.712 = 1543.091 
+Tue, 05 Sep 2017 20:48:02 PLsi.py[line:42] INFO [ iteration ] step 6
+Tue, 05 Sep 2017 20:48:02 PLsi.py[line:64] INFO [ iteration ] l2-l1  -109096.834 - -110332.622 = 1235.787 
+Tue, 05 Sep 2017 20:48:02 PLsi.py[line:42] INFO [ iteration ] step 7
+Tue, 05 Sep 2017 20:48:02 PLsi.py[line:64] INFO [ iteration ] l2-l1  -108193.846 - -109096.834 = 902.988 
+Tue, 05 Sep 2017 20:48:02 PLsi.py[line:42] INFO [ iteration ] step 8
+Tue, 05 Sep 2017 20:48:02 PLsi.py[line:64] INFO [ iteration ] l2-l1  -107550.886 - -108193.846 = 642.959 
+Tue, 05 Sep 2017 20:48:02 PLsi.py[line:42] INFO [ iteration ] step 9
+Tue, 05 Sep 2017 20:48:03 PLsi.py[line:64] INFO [ iteration ] l2-l1  -107082.922 - -107550.886 = 467.964 
+Tue, 05 Sep 2017 20:48:03 PLsi.py[line:42] INFO [ iteration ] step 10
+Tue, 05 Sep 2017 20:48:03 PLsi.py[line:64] INFO [ iteration ] l2-l1  -106725.826 - -107082.922 = 357.096 
+Tue, 05 Sep 2017 20:48:03 PLsi.py[line:42] INFO [ iteration ] step 11
+Tue, 05 Sep 2017 20:48:03 PLsi.py[line:64] INFO [ iteration ] l2-l1  -106450.657 - -106725.826 = 275.170 
+Tue, 05 Sep 2017 20:48:03 PLsi.py[line:42] INFO [ iteration ] step 12
+Tue, 05 Sep 2017 20:48:03 PLsi.py[line:64] INFO [ iteration ] l2-l1  -106235.245 - -106450.657 = 215.412 
+Tue, 05 Sep 2017 20:48:03 PLsi.py[line:42] INFO [ iteration ] step 13
+Tue, 05 Sep 2017 20:48:04 PLsi.py[line:64] INFO [ iteration ] l2-l1  -106065.298 - -106235.245 = 169.947 
+Tue, 05 Sep 2017 20:48:04 PLsi.py[line:42] INFO [ iteration ] step 14
+Tue, 05 Sep 2017 20:48:04 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105927.002 - -106065.298 = 138.296 
+Tue, 05 Sep 2017 20:48:04 PLsi.py[line:42] INFO [ iteration ] step 15
+Tue, 05 Sep 2017 20:48:04 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105806.394 - -105927.002 = 120.608 
+Tue, 05 Sep 2017 20:48:04 PLsi.py[line:42] INFO [ iteration ] step 16
+Tue, 05 Sep 2017 20:48:05 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105699.802 - -105806.394 = 106.592 
+Tue, 05 Sep 2017 20:48:05 PLsi.py[line:42] INFO [ iteration ] step 17
+Tue, 05 Sep 2017 20:48:05 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105606.850 - -105699.802 = 92.952 
+Tue, 05 Sep 2017 20:48:05 PLsi.py[line:42] INFO [ iteration ] step 18
+Tue, 05 Sep 2017 20:48:05 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105523.715 - -105606.850 = 83.135 
+Tue, 05 Sep 2017 20:48:05 PLsi.py[line:42] INFO [ iteration ] step 19
+Tue, 05 Sep 2017 20:48:05 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105452.486 - -105523.715 = 71.229 
+Tue, 05 Sep 2017 20:48:05 PLsi.py[line:42] INFO [ iteration ] step 20
+Tue, 05 Sep 2017 20:48:06 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105394.353 - -105452.486 = 58.133 
+Tue, 05 Sep 2017 20:48:06 PLsi.py[line:42] INFO [ iteration ] step 21
+Tue, 05 Sep 2017 20:48:06 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105342.047 - -105394.353 = 52.305 
+Tue, 05 Sep 2017 20:48:06 PLsi.py[line:42] INFO [ iteration ] step 22
+Tue, 05 Sep 2017 20:48:06 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105292.544 - -105342.047 = 49.503 
+Tue, 05 Sep 2017 20:48:06 PLsi.py[line:42] INFO [ iteration ] step 23
+Tue, 05 Sep 2017 20:48:06 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105248.301 - -105292.544 = 44.243 
+Tue, 05 Sep 2017 20:48:06 PLsi.py[line:42] INFO [ iteration ] step 24
+Tue, 05 Sep 2017 20:48:07 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105209.076 - -105248.301 = 39.225 
+Tue, 05 Sep 2017 20:48:07 PLsi.py[line:42] INFO [ iteration ] step 25
+Tue, 05 Sep 2017 20:48:07 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105171.210 - -105209.076 = 37.867 
+Tue, 05 Sep 2017 20:48:07 PLsi.py[line:42] INFO [ iteration ] step 26
+Tue, 05 Sep 2017 20:48:07 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105136.360 - -105171.210 = 34.849 
+Tue, 05 Sep 2017 20:48:07 PLsi.py[line:42] INFO [ iteration ] step 27
+Tue, 05 Sep 2017 20:48:08 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105105.805 - -105136.360 = 30.555 
+Tue, 05 Sep 2017 20:48:08 PLsi.py[line:42] INFO [ iteration ] step 28
+Tue, 05 Sep 2017 20:48:08 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105075.631 - -105105.805 = 30.175 
+Tue, 05 Sep 2017 20:48:08 PLsi.py[line:42] INFO [ iteration ] step 29
+Tue, 05 Sep 2017 20:48:08 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105046.492 - -105075.631 = 29.139 
+Tue, 05 Sep 2017 20:48:08 PLsi.py[line:42] INFO [ iteration ] step 30
+Tue, 05 Sep 2017 20:48:08 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105019.494 - -105046.492 = 26.998 
+Tue, 05 Sep 2017 20:48:08 PLsi.py[line:42] INFO [ iteration ] step 31
+Tue, 05 Sep 2017 20:48:09 PLsi.py[line:64] INFO [ iteration ] l2-l1  -104994.551 - -105019.494 = 24.943 
+Tue, 05 Sep 2017 20:48:09 PLsi.py[line:42] INFO [ iteration ] step 32
+Tue, 05 Sep 2017 20:48:09 PLsi.py[line:64] INFO [ iteration ] l2-l1  -104971.891 - -104994.551 = 22.660 
+Tue, 05 Sep 2017 20:48:09 PLsi.py[line:42] INFO [ iteration ] step 33
+Tue, 05 Sep 2017 20:48:09 PLsi.py[line:64] INFO [ iteration ] l2-l1  -104950.910 - -104971.891 = 20.981 
+Tue, 05 Sep 2017 20:48:09 PLsi.py[line:42] INFO [ iteration ] step 34
+Tue, 05 Sep 2017 20:48:09 PLsi.py[line:64] INFO [ iteration ] l2-l1  -104931.243 - -104950.910 = 19.667 
+Tue, 05 Sep 2017 20:48:09 PLsi.py[line:66] INFO [ iteration ] End EM 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:33] INFO z = 13, eps = -104931.243246, time = 9.172418
+Tue, 05 Sep 2017 20:48:09 Test.py[line:36] INFO Topic 0
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO get : 0.206907 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO go : 0.068709 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO eat : 0.066111 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO food : 0.047950 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO lot : 0.031074 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO diabet : 0.028193 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO start : 0.020190 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO exercis : 0.016856 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO pain : 0.016161 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO healthi : 0.016090 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:36] INFO Topic 1
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO diabet : 0.497416 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO cure : 0.043191 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO year : 0.032955 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO sign : 0.028382 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO pre : 0.028044 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO peopl : 0.026253 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO feet : 0.016044 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO urin : 0.012340 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO sometim : 0.012340 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO problem : 0.012226 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:36] INFO Topic 2
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO know : 0.089368 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO dont : 0.074874 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO make : 0.064891 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO mean : 0.064891 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO pee : 0.047411 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO night : 0.044924 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO time : 0.027971 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO chang : 0.024958 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO okay : 0.022462 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO candi : 0.017447 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:36] INFO Topic 3
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO test : 0.160525 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO glucos : 0.110877 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO hour : 0.043780 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO read : 0.042321 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO give : 0.032096 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO level : 0.028191 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO result : 0.023349 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO diagnos : 0.018489 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO tell : 0.017715 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO morn : 0.016048 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:36] INFO Topic 4
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO diabet : 0.214981 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO think : 0.091110 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO use : 0.036565 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO keep : 0.033237 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO day : 0.029605 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO show : 0.028218 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO mani : 0.022271 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO prevent : 0.020247 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO sex : 0.020247 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO becom : 0.014173 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:36] INFO Topic 5
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO diabet : 0.212720 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO caus : 0.144330 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO way : 0.046328 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO revers : 0.039252 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO medicin : 0.035637 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO insulin : 0.035182 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO possibl : 0.032045 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO age : 0.017699 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO carb : 0.016037 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO sell : 0.012180 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:36] INFO Topic 6
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO blood : 0.358931 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO sugar : 0.357061 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO level : 0.087128 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO check : 0.015692 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO patient : 0.015325 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO danger : 0.014149 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO pressur : 0.011652 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO rais : 0.005826 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO told : 0.005348 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO bring : 0.004994 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:36] INFO Topic 7
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO type : 0.302537 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO diabet : 0.267782 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO control : 0.026947 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO ii : 0.016705 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO kidney : 0.016705 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO need : 0.013092 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO friend : 0.012242 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO chanc : 0.010225 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO husband : 0.009867 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO differ : 0.009659 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:36] INFO Topic 8
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO diabet : 0.236683 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO symptom : 0.085627 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO someon : 0.057085 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO life : 0.043653 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO risk : 0.036788 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO take : 0.034412 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO develop : 0.031900 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO anyon : 0.025183 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO number : 0.023506 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO differ : 0.023083 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:36] INFO Topic 9
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO im : 0.116279 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO diabet : 0.100638 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO help : 0.093254 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO doctor : 0.055241 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO pleas : 0.036841 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO question : 0.034538 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO scare : 0.028782 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO check : 0.023193 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO go : 0.019652 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO need : 0.017976 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:36] INFO Topic 10
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO eat : 0.153063 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO take : 0.092210 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO person : 0.064593 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO diabet : 0.050881 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO happen : 0.043451 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO metformin : 0.036696 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO a1c : 0.033764 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO meal : 0.023488 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO leg : 0.015326 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO diagnos : 0.013613 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:36] INFO Topic 11
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO insulin : 0.198128 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO weight : 0.078036 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO affect : 0.060028 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO bodi : 0.054025 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO diabeti : 0.045021 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO peopl : 0.034557 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO need : 0.028367 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO lose : 0.024011 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO pump : 0.015007 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO loss : 0.014852 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:36] INFO Topic 12
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO prediabet : 0.088304 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO day : 0.062979 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO drink : 0.061994 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO feel : 0.055951 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO time : 0.047033 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO insulin : 0.033191 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO treatment : 0.029435 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO water : 0.021258 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO year : 0.019663 
+Tue, 05 Sep 2017 20:48:09 Test.py[line:41] INFO cant : 0.016353 
+Tue, 05 Sep 2017 20:48:09 PLsi.py[line:42] INFO [ iteration ] step 1
+Tue, 05 Sep 2017 20:48:10 PLsi.py[line:64] INFO [ iteration ] l2-l1  -115713.141 - -56278.673 = -59434.467 
+Tue, 05 Sep 2017 20:48:10 PLsi.py[line:42] INFO [ iteration ] step 2
+Tue, 05 Sep 2017 20:48:10 PLsi.py[line:64] INFO [ iteration ] l2-l1  -114603.772 - -115713.141 = 1109.369 
+Tue, 05 Sep 2017 20:48:10 PLsi.py[line:42] INFO [ iteration ] step 3
+Tue, 05 Sep 2017 20:48:10 PLsi.py[line:64] INFO [ iteration ] l2-l1  -112891.136 - -114603.772 = 1712.636 
+Tue, 05 Sep 2017 20:48:10 PLsi.py[line:42] INFO [ iteration ] step 4
+Tue, 05 Sep 2017 20:48:11 PLsi.py[line:64] INFO [ iteration ] l2-l1  -110630.053 - -112891.136 = 2261.083 
+Tue, 05 Sep 2017 20:48:11 PLsi.py[line:42] INFO [ iteration ] step 5
+Tue, 05 Sep 2017 20:48:11 PLsi.py[line:64] INFO [ iteration ] l2-l1  -108368.653 - -110630.053 = 2261.400 
+Tue, 05 Sep 2017 20:48:11 PLsi.py[line:42] INFO [ iteration ] step 6
+Tue, 05 Sep 2017 20:48:11 PLsi.py[line:64] INFO [ iteration ] l2-l1  -106620.864 - -108368.653 = 1747.789 
+Tue, 05 Sep 2017 20:48:11 PLsi.py[line:42] INFO [ iteration ] step 7
+Tue, 05 Sep 2017 20:48:12 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105426.289 - -106620.864 = 1194.575 
+Tue, 05 Sep 2017 20:48:12 PLsi.py[line:42] INFO [ iteration ] step 8
+Tue, 05 Sep 2017 20:48:12 PLsi.py[line:64] INFO [ iteration ] l2-l1  -104619.691 - -105426.289 = 806.597 
+Tue, 05 Sep 2017 20:48:12 PLsi.py[line:42] INFO [ iteration ] step 9
+Tue, 05 Sep 2017 20:48:12 PLsi.py[line:64] INFO [ iteration ] l2-l1  -104052.293 - -104619.691 = 567.399 
+Tue, 05 Sep 2017 20:48:12 PLsi.py[line:42] INFO [ iteration ] step 10
+Tue, 05 Sep 2017 20:48:12 PLsi.py[line:64] INFO [ iteration ] l2-l1  -103639.922 - -104052.293 = 412.371 
+Tue, 05 Sep 2017 20:48:12 PLsi.py[line:42] INFO [ iteration ] step 11
+Tue, 05 Sep 2017 20:48:13 PLsi.py[line:64] INFO [ iteration ] l2-l1  -103324.358 - -103639.922 = 315.563 
+Tue, 05 Sep 2017 20:48:13 PLsi.py[line:42] INFO [ iteration ] step 12
+Tue, 05 Sep 2017 20:48:13 PLsi.py[line:64] INFO [ iteration ] l2-l1  -103079.011 - -103324.358 = 245.347 
+Tue, 05 Sep 2017 20:48:13 PLsi.py[line:42] INFO [ iteration ] step 13
+Tue, 05 Sep 2017 20:48:13 PLsi.py[line:64] INFO [ iteration ] l2-l1  -102885.424 - -103079.011 = 193.587 
+Tue, 05 Sep 2017 20:48:13 PLsi.py[line:42] INFO [ iteration ] step 14
+Tue, 05 Sep 2017 20:48:14 PLsi.py[line:64] INFO [ iteration ] l2-l1  -102727.114 - -102885.424 = 158.310 
+Tue, 05 Sep 2017 20:48:14 PLsi.py[line:42] INFO [ iteration ] step 15
+Tue, 05 Sep 2017 20:48:14 PLsi.py[line:64] INFO [ iteration ] l2-l1  -102595.115 - -102727.114 = 132.000 
+Tue, 05 Sep 2017 20:48:14 PLsi.py[line:42] INFO [ iteration ] step 16
+Tue, 05 Sep 2017 20:48:14 PLsi.py[line:64] INFO [ iteration ] l2-l1  -102479.934 - -102595.115 = 115.181 
+Tue, 05 Sep 2017 20:48:14 PLsi.py[line:42] INFO [ iteration ] step 17
+Tue, 05 Sep 2017 20:48:14 PLsi.py[line:64] INFO [ iteration ] l2-l1  -102377.081 - -102479.934 = 102.853 
+Tue, 05 Sep 2017 20:48:14 PLsi.py[line:42] INFO [ iteration ] step 18
+Tue, 05 Sep 2017 20:48:15 PLsi.py[line:64] INFO [ iteration ] l2-l1  -102287.945 - -102377.081 = 89.136 
+Tue, 05 Sep 2017 20:48:15 PLsi.py[line:42] INFO [ iteration ] step 19
+Tue, 05 Sep 2017 20:48:15 PLsi.py[line:64] INFO [ iteration ] l2-l1  -102213.131 - -102287.945 = 74.814 
+Tue, 05 Sep 2017 20:48:15 PLsi.py[line:42] INFO [ iteration ] step 20
+Tue, 05 Sep 2017 20:48:15 PLsi.py[line:64] INFO [ iteration ] l2-l1  -102149.588 - -102213.131 = 63.543 
+Tue, 05 Sep 2017 20:48:15 PLsi.py[line:42] INFO [ iteration ] step 21
+Tue, 05 Sep 2017 20:48:16 PLsi.py[line:64] INFO [ iteration ] l2-l1  -102093.600 - -102149.588 = 55.988 
+Tue, 05 Sep 2017 20:48:16 PLsi.py[line:42] INFO [ iteration ] step 22
+Tue, 05 Sep 2017 20:48:16 PLsi.py[line:64] INFO [ iteration ] l2-l1  -102042.667 - -102093.600 = 50.933 
+Tue, 05 Sep 2017 20:48:16 PLsi.py[line:42] INFO [ iteration ] step 23
+Tue, 05 Sep 2017 20:48:16 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101997.283 - -102042.667 = 45.383 
+Tue, 05 Sep 2017 20:48:16 PLsi.py[line:42] INFO [ iteration ] step 24
+Tue, 05 Sep 2017 20:48:17 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101954.946 - -101997.283 = 42.338 
+Tue, 05 Sep 2017 20:48:17 PLsi.py[line:42] INFO [ iteration ] step 25
+Tue, 05 Sep 2017 20:48:17 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101913.924 - -101954.946 = 41.022 
+Tue, 05 Sep 2017 20:48:17 PLsi.py[line:42] INFO [ iteration ] step 26
+Tue, 05 Sep 2017 20:48:17 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101874.302 - -101913.924 = 39.622 
+Tue, 05 Sep 2017 20:48:17 PLsi.py[line:42] INFO [ iteration ] step 27
+Tue, 05 Sep 2017 20:48:17 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101837.465 - -101874.302 = 36.837 
+Tue, 05 Sep 2017 20:48:17 PLsi.py[line:42] INFO [ iteration ] step 28
+Tue, 05 Sep 2017 20:48:18 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101805.343 - -101837.465 = 32.122 
+Tue, 05 Sep 2017 20:48:18 PLsi.py[line:42] INFO [ iteration ] step 29
+Tue, 05 Sep 2017 20:48:18 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101774.515 - -101805.343 = 30.828 
+Tue, 05 Sep 2017 20:48:18 PLsi.py[line:42] INFO [ iteration ] step 30
+Tue, 05 Sep 2017 20:48:18 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101745.532 - -101774.515 = 28.982 
+Tue, 05 Sep 2017 20:48:18 PLsi.py[line:42] INFO [ iteration ] step 31
+Tue, 05 Sep 2017 20:48:19 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101719.783 - -101745.532 = 25.749 
+Tue, 05 Sep 2017 20:48:19 PLsi.py[line:42] INFO [ iteration ] step 32
+Tue, 05 Sep 2017 20:48:19 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101697.420 - -101719.783 = 22.363 
+Tue, 05 Sep 2017 20:48:19 PLsi.py[line:42] INFO [ iteration ] step 33
+Tue, 05 Sep 2017 20:48:19 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101675.738 - -101697.420 = 21.682 
+Tue, 05 Sep 2017 20:48:19 PLsi.py[line:42] INFO [ iteration ] step 34
+Tue, 05 Sep 2017 20:48:20 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101651.186 - -101675.738 = 24.552 
+Tue, 05 Sep 2017 20:48:20 PLsi.py[line:42] INFO [ iteration ] step 35
+Tue, 05 Sep 2017 20:48:20 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101626.146 - -101651.186 = 25.040 
+Tue, 05 Sep 2017 20:48:20 PLsi.py[line:42] INFO [ iteration ] step 36
+Tue, 05 Sep 2017 20:48:20 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101603.979 - -101626.146 = 22.167 
+Tue, 05 Sep 2017 20:48:20 PLsi.py[line:42] INFO [ iteration ] step 37
+Tue, 05 Sep 2017 20:48:21 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101585.154 - -101603.979 = 18.825 
+Tue, 05 Sep 2017 20:48:21 PLsi.py[line:66] INFO [ iteration ] End EM 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:33] INFO z = 23, eps = -101585.154252, time = 11.169147
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 0
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO type : 0.398414 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO diabet : 0.336091 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO symptom : 0.075489 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO ii : 0.023683 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO die : 0.013907 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO finger : 0.009867 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO manag : 0.008881 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO earli : 0.008835 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO mellitus : 0.006599 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO shot : 0.005223 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 1
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO eat : 0.174687 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO sugar : 0.168424 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO dont : 0.078259 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO happen : 0.053444 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO foot : 0.030472 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO keep : 0.025588 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO rais : 0.019392 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO gram : 0.016621 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO honey : 0.014987 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO lead : 0.013851 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 2
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO peopl : 0.213466 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO develop : 0.109618 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO diabet : 0.074163 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO juic : 0.034616 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO school : 0.024718 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO choic : 0.023077 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO kind : 0.021165 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO smoke : 0.017308 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO appetit : 0.017308 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO person : 0.014476 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 3
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO brother : 0.051118 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO sell : 0.038339 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO vision : 0.038335 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO idea : 0.038327 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO drug : 0.034079 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO say : 0.033722 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO tell : 0.029022 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO needl : 0.027202 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO kidney : 0.024383 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO need : 0.019288 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 4
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO insulin : 0.225935 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO glucos : 0.154694 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO take : 0.070433 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO feel : 0.063529 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO diabeti : 0.030532 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO work : 0.028496 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO happen : 0.021791 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO chang : 0.020354 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO someth : 0.012033 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO health : 0.012012 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 5
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO im : 0.467800 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO feet : 0.092982 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO start : 0.061589 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO exercis : 0.041696 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO sinc : 0.023159 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO depress : 0.018524 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO tingl : 0.013895 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO refin : 0.013895 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO birth : 0.013895 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO skin : 0.013886 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 6
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO check : 0.100441 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO patient : 0.089339 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO mani : 0.051722 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO alcohol : 0.039522 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO look : 0.036412 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO call : 0.036010 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO hospit : 0.028212 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO nurs : 0.028212 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO mellitus : 0.026058 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO possibl : 0.023994 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 7
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO test : 0.293091 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO time : 0.104780 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO mean : 0.064671 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO danger : 0.045312 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO check : 0.043712 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO night : 0.031685 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO strip : 0.023987 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO buy : 0.018378 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO feel : 0.018009 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO came : 0.017385 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 8
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO help : 0.242534 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO someon : 0.102451 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO know : 0.082213 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO pleas : 0.070973 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO pressur : 0.042186 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO doctor : 0.022593 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO thing : 0.018079 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO kidney : 0.015221 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO hypertens : 0.015066 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO stomach : 0.015064 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 9
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO need : 0.147077 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO metformin : 0.086282 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO a1c : 0.079380 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO take : 0.053012 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO friend : 0.045967 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO said : 0.040585 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO boyfriend : 0.024159 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO diet : 0.024159 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO advic : 0.024159 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO sweet : 0.020708 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 10
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO prediabet : 0.153439 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO want : 0.048303 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO age : 0.031255 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO candi : 0.027913 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO consid : 0.025573 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO okay : 0.022732 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO pass : 0.022732 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO dr : 0.022487 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO fast : 0.019890 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO dizzi : 0.019890 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 11
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO food : 0.124595 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO make : 0.087553 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO number : 0.047144 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO told : 0.040913 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO take : 0.038108 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO sex : 0.033674 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO type2 : 0.026940 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO cholesterol : 0.020205 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO loss : 0.020205 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO monitor : 0.016837 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 12
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO get : 0.310203 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO diabet : 0.254943 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO person : 0.070533 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO question : 0.059276 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO scare : 0.049254 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO realli : 0.045245 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO meal : 0.010872 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO ask : 0.009879 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO virus : 0.009360 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO left : 0.008512 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 13
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO year : 0.210147 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO control : 0.101790 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO month : 0.062387 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO anyon : 0.049253 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO result : 0.037425 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO prevent : 0.032836 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO dad : 0.022985 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO period : 0.016418 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO know : 0.015136 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO doctor : 0.014764 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 14
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO think : 0.111451 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO diabet : 0.106486 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO weight : 0.064394 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO lot : 0.046667 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO problem : 0.044218 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO pee : 0.034129 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO water : 0.032196 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO everi : 0.027244 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO chanc : 0.026712 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO sometim : 0.024685 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 15
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO doctor : 0.097202 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO healthi : 0.070394 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO mom : 0.057855 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO effect : 0.054751 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO breakfast : 0.039108 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO care : 0.039108 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO side : 0.031286 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO coke : 0.027375 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO medic : 0.023465 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO pregnanc : 0.019554 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 16
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO diabet : 0.256855 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO eat : 0.198190 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO revers : 0.048229 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO medicin : 0.041939 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO give : 0.039565 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO treatment : 0.037684 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO diseas : 0.020969 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO natur : 0.020969 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO children : 0.014679 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO sound : 0.012582 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 17
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO day : 0.140309 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO drink : 0.098786 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO diabet : 0.084098 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO use : 0.083037 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO differ : 0.057979 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO risk : 0.049585 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO pre : 0.041975 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO stop : 0.035292 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO cant : 0.020672 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO condit : 0.017521 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 18
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO diabet : 0.661402 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO caus : 0.094658 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO cure : 0.040882 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO take : 0.028889 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO way : 0.025984 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO life : 0.024226 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO affect : 0.023324 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO bodi : 0.011273 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO guy : 0.005843 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO possibl : 0.004690 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 19
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO sign : 0.154424 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO diabet : 0.111975 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO show : 0.093997 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO find : 0.060427 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO answer : 0.060427 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO pleas : 0.051838 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO toe : 0.040284 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO confus : 0.026856 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO start : 0.026668 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO crash : 0.020142 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 20
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO read : 0.123346 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO type : 0.088388 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO diabet : 0.082418 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO soda : 0.068053 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO get : 0.061315 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO husband : 0.038923 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO meter : 0.035692 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO parent : 0.029773 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO ate : 0.024743 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO fat : 0.021265 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 21
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO blood : 0.426732 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO sugar : 0.357051 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO level : 0.116997 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO morn : 0.009451 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO drop : 0.005603 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO increas : 0.004835 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO bring : 0.004303 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO bodi : 0.004239 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO diagnosi : 0.003879 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO meal : 0.003219 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:36] INFO Topic 22
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO go : 0.242001 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO diagnos : 0.103715 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO hour : 0.086429 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO pain : 0.040334 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO doctor : 0.039100 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO got : 0.033891 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO urin : 0.028810 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO pre : 0.026935 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO drink : 0.019713 
+Tue, 05 Sep 2017 20:48:21 Test.py[line:41] INFO see : 0.013561 
+Tue, 05 Sep 2017 20:48:21 PLsi.py[line:42] INFO [ iteration ] step 1
+Tue, 05 Sep 2017 20:48:21 PLsi.py[line:64] INFO [ iteration ] l2-l1  -115666.220 - -62835.402 = -52830.818 
+Tue, 05 Sep 2017 20:48:21 PLsi.py[line:42] INFO [ iteration ] step 2
+Tue, 05 Sep 2017 20:48:21 PLsi.py[line:64] INFO [ iteration ] l2-l1  -114512.869 - -115666.220 = 1153.351 
+Tue, 05 Sep 2017 20:48:21 PLsi.py[line:42] INFO [ iteration ] step 3
+Tue, 05 Sep 2017 20:48:22 PLsi.py[line:64] INFO [ iteration ] l2-l1  -112727.864 - -114512.869 = 1785.005 
+Tue, 05 Sep 2017 20:48:22 PLsi.py[line:42] INFO [ iteration ] step 4
+Tue, 05 Sep 2017 20:48:22 PLsi.py[line:64] INFO [ iteration ] l2-l1  -110329.321 - -112727.864 = 2398.543 
+Tue, 05 Sep 2017 20:48:22 PLsi.py[line:42] INFO [ iteration ] step 5
+Tue, 05 Sep 2017 20:48:22 PLsi.py[line:64] INFO [ iteration ] l2-l1  -107821.280 - -110329.321 = 2508.042 
+Tue, 05 Sep 2017 20:48:22 PLsi.py[line:42] INFO [ iteration ] step 6
+Tue, 05 Sep 2017 20:48:22 PLsi.py[line:64] INFO [ iteration ] l2-l1  -105779.742 - -107821.280 = 2041.538 
+Tue, 05 Sep 2017 20:48:22 PLsi.py[line:42] INFO [ iteration ] step 7
+Tue, 05 Sep 2017 20:48:23 PLsi.py[line:64] INFO [ iteration ] l2-l1  -104314.760 - -105779.742 = 1464.981 
+Tue, 05 Sep 2017 20:48:23 PLsi.py[line:42] INFO [ iteration ] step 8
+Tue, 05 Sep 2017 20:48:23 PLsi.py[line:64] INFO [ iteration ] l2-l1  -103282.859 - -104314.760 = 1031.902 
+Tue, 05 Sep 2017 20:48:23 PLsi.py[line:42] INFO [ iteration ] step 9
+Tue, 05 Sep 2017 20:48:23 PLsi.py[line:64] INFO [ iteration ] l2-l1  -102533.258 - -103282.859 = 749.601 
+Tue, 05 Sep 2017 20:48:23 PLsi.py[line:42] INFO [ iteration ] step 10
+Tue, 05 Sep 2017 20:48:24 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101958.021 - -102533.258 = 575.237 
+Tue, 05 Sep 2017 20:48:24 PLsi.py[line:42] INFO [ iteration ] step 11
+Tue, 05 Sep 2017 20:48:24 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101496.721 - -101958.021 = 461.299 
+Tue, 05 Sep 2017 20:48:24 PLsi.py[line:42] INFO [ iteration ] step 12
+Tue, 05 Sep 2017 20:48:24 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101124.373 - -101496.721 = 372.348 
+Tue, 05 Sep 2017 20:48:24 PLsi.py[line:42] INFO [ iteration ] step 13
+Tue, 05 Sep 2017 20:48:25 PLsi.py[line:64] INFO [ iteration ] l2-l1  -100827.904 - -101124.373 = 296.469 
+Tue, 05 Sep 2017 20:48:25 PLsi.py[line:42] INFO [ iteration ] step 14
+Tue, 05 Sep 2017 20:48:25 PLsi.py[line:64] INFO [ iteration ] l2-l1  -100585.393 - -100827.904 = 242.511 
+Tue, 05 Sep 2017 20:48:25 PLsi.py[line:42] INFO [ iteration ] step 15
+Tue, 05 Sep 2017 20:48:25 PLsi.py[line:64] INFO [ iteration ] l2-l1  -100378.706 - -100585.393 = 206.687 
+Tue, 05 Sep 2017 20:48:25 PLsi.py[line:42] INFO [ iteration ] step 16
+Tue, 05 Sep 2017 20:48:25 PLsi.py[line:64] INFO [ iteration ] l2-l1  -100202.457 - -100378.706 = 176.250 
+Tue, 05 Sep 2017 20:48:25 PLsi.py[line:42] INFO [ iteration ] step 17
+Tue, 05 Sep 2017 20:48:26 PLsi.py[line:64] INFO [ iteration ] l2-l1  -100055.418 - -100202.457 = 147.039 
+Tue, 05 Sep 2017 20:48:26 PLsi.py[line:42] INFO [ iteration ] step 18
+Tue, 05 Sep 2017 20:48:26 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99931.535 - -100055.418 = 123.883 
+Tue, 05 Sep 2017 20:48:26 PLsi.py[line:42] INFO [ iteration ] step 19
+Tue, 05 Sep 2017 20:48:26 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99826.478 - -99931.535 = 105.056 
+Tue, 05 Sep 2017 20:48:26 PLsi.py[line:42] INFO [ iteration ] step 20
+Tue, 05 Sep 2017 20:48:27 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99738.699 - -99826.478 = 87.779 
+Tue, 05 Sep 2017 20:48:27 PLsi.py[line:42] INFO [ iteration ] step 21
+Tue, 05 Sep 2017 20:48:27 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99662.088 - -99738.699 = 76.611 
+Tue, 05 Sep 2017 20:48:27 PLsi.py[line:42] INFO [ iteration ] step 22
+Tue, 05 Sep 2017 20:48:27 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99593.967 - -99662.088 = 68.122 
+Tue, 05 Sep 2017 20:48:27 PLsi.py[line:42] INFO [ iteration ] step 23
+Tue, 05 Sep 2017 20:48:28 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99531.830 - -99593.967 = 62.137 
+Tue, 05 Sep 2017 20:48:28 PLsi.py[line:42] INFO [ iteration ] step 24
+Tue, 05 Sep 2017 20:48:28 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99475.496 - -99531.830 = 56.334 
+Tue, 05 Sep 2017 20:48:28 PLsi.py[line:42] INFO [ iteration ] step 25
+Tue, 05 Sep 2017 20:48:28 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99424.860 - -99475.496 = 50.636 
+Tue, 05 Sep 2017 20:48:28 PLsi.py[line:42] INFO [ iteration ] step 26
+Tue, 05 Sep 2017 20:48:29 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99378.152 - -99424.860 = 46.708 
+Tue, 05 Sep 2017 20:48:29 PLsi.py[line:42] INFO [ iteration ] step 27
+Tue, 05 Sep 2017 20:48:29 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99337.741 - -99378.152 = 40.411 
+Tue, 05 Sep 2017 20:48:29 PLsi.py[line:42] INFO [ iteration ] step 28
+Tue, 05 Sep 2017 20:48:29 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99302.565 - -99337.741 = 35.176 
+Tue, 05 Sep 2017 20:48:29 PLsi.py[line:42] INFO [ iteration ] step 29
+Tue, 05 Sep 2017 20:48:30 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99272.665 - -99302.565 = 29.900 
+Tue, 05 Sep 2017 20:48:30 PLsi.py[line:42] INFO [ iteration ] step 30
+Tue, 05 Sep 2017 20:48:30 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99247.150 - -99272.665 = 25.515 
+Tue, 05 Sep 2017 20:48:30 PLsi.py[line:42] INFO [ iteration ] step 31
+Tue, 05 Sep 2017 20:48:30 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99221.684 - -99247.150 = 25.466 
+Tue, 05 Sep 2017 20:48:30 PLsi.py[line:42] INFO [ iteration ] step 32
+Tue, 05 Sep 2017 20:48:30 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99197.441 - -99221.684 = 24.243 
+Tue, 05 Sep 2017 20:48:30 PLsi.py[line:42] INFO [ iteration ] step 33
+Tue, 05 Sep 2017 20:48:31 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99175.941 - -99197.441 = 21.501 
+Tue, 05 Sep 2017 20:48:31 PLsi.py[line:42] INFO [ iteration ] step 34
+Tue, 05 Sep 2017 20:48:31 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99155.872 - -99175.941 = 20.068 
+Tue, 05 Sep 2017 20:48:31 PLsi.py[line:42] INFO [ iteration ] step 35
+Tue, 05 Sep 2017 20:48:31 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99136.762 - -99155.872 = 19.110 
+Tue, 05 Sep 2017 20:48:31 PLsi.py[line:66] INFO [ iteration ] End EM 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:33] INFO z = 33, eps = -99136.761920, time = 10.875775
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 0
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO medicin : 0.097106 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO mom : 0.087395 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO pressur : 0.058264 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO foot : 0.053408 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO look : 0.039660 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO leg : 0.034744 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO chocol : 0.024286 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO hypoglycemia : 0.024276 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO wors : 0.019422 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO hurt : 0.019236 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 1
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO food : 0.112593 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO weight : 0.072567 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO ii : 0.057901 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO diabeti : 0.054282 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO possibl : 0.050699 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO hand : 0.035150 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO diabet : 0.025009 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO loss : 0.021713 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO gain : 0.018094 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO im : 0.018011 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 2
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO year : 0.224678 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO mean : 0.103195 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO start : 0.042866 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO pass : 0.033161 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO sinc : 0.024870 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO juic : 0.024870 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO im : 0.023450 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO understand : 0.020725 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO donut : 0.020725 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO burn : 0.016580 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 3
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO sugar : 0.518495 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO blood : 0.444031 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO drop : 0.006080 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO danger : 0.004025 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO substitut : 0.003648 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO okay : 0.002448 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO drank : 0.001513 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO sandwhich : 0.001396 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO ive : 0.001339 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO fastingi : 0.001216 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 4
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO diabet : 0.844993 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO think : 0.049109 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO cure : 0.034753 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO dont : 0.014470 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO manag : 0.005353 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO come : 0.003547 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO bake : 0.002535 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO hair : 0.002225 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO teen : 0.002183 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO cope : 0.002183 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 5
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO peopl : 0.314294 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO doesnt : 0.067956 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO anyon : 0.047570 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO eaten : 0.042472 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO fat : 0.034576 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO teeth : 0.033978 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO mouth : 0.033978 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO refin : 0.025483 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO heal : 0.025483 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO food : 0.018416 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 6
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO symptom : 0.208184 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO diabet : 0.129198 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO bodi : 0.073094 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO patient : 0.064376 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO health : 0.040820 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO type2 : 0.032616 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO mellitus : 0.026306 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO eye : 0.024499 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO job : 0.016328 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO spread : 0.016328 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 7
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO test : 0.366541 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO diagnos : 0.119965 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO use : 0.043609 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO danger : 0.042288 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO die : 0.041914 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO consid : 0.029992 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO put : 0.029992 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO came : 0.026660 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO said : 0.024914 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO mg : 0.019995 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 8
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO get : 0.719351 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO pain : 0.057531 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO left : 0.016810 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO point : 0.016442 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO med : 0.016442 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO dizzi : 0.012739 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO heard : 0.012332 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO leg : 0.008723 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO section : 0.008221 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO thank : 0.006780 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 9
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO someon : 0.169728 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO make : 0.129792 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO risk : 0.109824 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO feet : 0.104165 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO need : 0.025425 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO pregnanc : 0.024960 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO told : 0.021547 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO tingl : 0.019968 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO replac : 0.014971 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO ulcer : 0.014968 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 10
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO differ : 0.140207 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO breakfast : 0.062252 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO fast : 0.037536 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO lunch : 0.037351 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO bring : 0.037351 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO gram : 0.037351 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO need : 0.032389 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO mani : 0.030490 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO vomit : 0.024901 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO dosag : 0.018676 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 11
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO im : 0.198124 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO go : 0.195639 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO prediabet : 0.125768 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO drink : 0.064762 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO way : 0.058355 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO scare : 0.058226 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO a1c : 0.041769 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO soda : 0.025768 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO boyfriend : 0.016303 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO see : 0.015308 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 12
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO blood : 0.312663 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO realli : 0.097000 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO tell : 0.063959 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO glucos : 0.059041 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO number : 0.058503 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO worri : 0.048798 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO show : 0.043998 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO rais : 0.029251 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO famili : 0.020894 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO im : 0.020860 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 13
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO life : 0.145450 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO kidney : 0.089508 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO say : 0.072725 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO age : 0.048696 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO friend : 0.033553 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO brother : 0.022364 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO cure : 0.017651 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO live : 0.017228 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO use : 0.016977 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO consequ : 0.016783 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 14
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO take : 0.292709 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO day : 0.194006 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO happen : 0.092496 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO dont : 0.056078 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO sell : 0.023827 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO time : 0.022084 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO drink : 0.019520 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO donat : 0.017018 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO consum : 0.017018 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO diagnosi : 0.013614 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 15
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO caus : 0.382028 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO stop : 0.066030 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO diabet : 0.062001 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO everi : 0.051875 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO stomach : 0.032086 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO uncontrol : 0.018866 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO pop : 0.014149 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO bread : 0.014149 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO okay : 0.013743 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO spike : 0.009435 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 16
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO feel : 0.176870 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO lot : 0.113506 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO pee : 0.089859 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO water : 0.061483 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO year : 0.046331 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO drink : 0.045695 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO honey : 0.037835 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO keep : 0.028007 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO tell : 0.026931 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO want : 0.024256 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 17
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO insulin : 0.275086 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO know : 0.119834 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO need : 0.116837 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO candi : 0.036340 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO cant : 0.033057 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO anyon : 0.026576 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO pump : 0.016528 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO lead : 0.016528 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO date : 0.013223 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO stress : 0.013223 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 18
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO glucos : 0.294653 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO person : 0.209544 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO needl : 0.057148 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO buy : 0.042861 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO meter : 0.030302 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO run : 0.023812 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO plan : 0.023801 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO syring : 0.019049 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO averag : 0.017807 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO monitor : 0.014479 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 19
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO problem : 0.109844 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO metformin : 0.100924 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO tri : 0.063527 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO went : 0.063527 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO lose : 0.056468 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO wont : 0.042351 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO shot : 0.042351 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO weight : 0.041979 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO friend : 0.041459 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO kind : 0.035293 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 20
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO type : 0.524216 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO diabet : 0.303519 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO use : 0.030510 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO sex : 0.018077 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO earli : 0.012654 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO sound : 0.007241 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO system : 0.007231 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO medicar : 0.007231 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO machin : 0.007231 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO tire : 0.003759 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 21
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO doctor : 0.313229 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO diabet : 0.165351 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO prevent : 0.060280 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO find : 0.054252 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO idea : 0.054252 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO mani : 0.036784 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO rice : 0.030140 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO male : 0.030140 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO toe : 0.012059 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO didnt : 0.012056 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 22
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO insulin : 0.108226 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO affect : 0.077906 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO effect : 0.054533 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO want : 0.043393 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO metformin : 0.041686 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO keep : 0.035383 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO unit : 0.035057 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO side : 0.031162 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO lantus : 0.027840 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO tablet : 0.027267 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 23
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO sometim : 0.078517 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO result : 0.072063 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO heart : 0.062756 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO hemoglobin : 0.047110 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO minut : 0.047109 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO medic : 0.047077 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO advic : 0.044986 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO yesterday : 0.031407 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO drink : 0.025531 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO alot : 0.023555 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 24
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO check : 0.180333 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO time : 0.150464 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO control : 0.143342 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO pre : 0.120222 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO night : 0.083231 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO wake : 0.032368 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO lack : 0.021766 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO week : 0.021266 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO said : 0.018743 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO choic : 0.018496 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 25
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO healthi : 0.129780 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO exercis : 0.085514 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO urin : 0.072100 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO meter : 0.055064 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO reason : 0.028840 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO color : 0.028840 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO turn : 0.028840 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO work : 0.028614 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO birth : 0.021630 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO hrs : 0.021630 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 26
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO eat : 0.559904 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO meal : 0.056297 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO chanc : 0.042261 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO fruit : 0.024653 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO gestat : 0.014087 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO surviv : 0.010565 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO cream : 0.010565 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO avoid : 0.010565 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO alreadi : 0.010565 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO cake : 0.010564 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 27
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO diabet : 0.306451 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO revers : 0.082669 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO give : 0.061901 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO got : 0.031691 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO parent : 0.025160 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO children : 0.025154 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO girl : 0.024437 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO guy : 0.017972 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO thirsti : 0.017971 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO school : 0.017971 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 28
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO level : 0.538341 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO hour : 0.130244 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO sweet : 0.026049 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO product : 0.013024 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO believ : 0.013024 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO meat : 0.013024 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO half : 0.012335 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO chart : 0.008683 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO cheerio : 0.008683 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO dibet : 0.008683 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 29
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO read : 0.146409 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO alcohol : 0.050486 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO diseas : 0.048547 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO husband : 0.047628 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO natur : 0.045395 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO work : 0.042142 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO brother : 0.040400 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO banana : 0.030291 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO cholesterol : 0.025325 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO hungri : 0.025251 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 30
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO help : 0.396645 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO pleas : 0.156699 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO question : 0.146906 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO care : 0.048968 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO answer : 0.044072 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO solut : 0.019587 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO freak : 0.019587 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO hypoglycem : 0.014691 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO issu : 0.009808 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO granola : 0.009794 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 31
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO morn : 0.095137 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO call : 0.077839 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO someth : 0.069190 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO vision : 0.054756 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO told : 0.051904 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO taken : 0.040844 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO potassium : 0.034595 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO confus : 0.034595 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO concern : 0.031820 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO crash : 0.025946 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:36] INFO Topic 32
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO diabet : 0.237880 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO sign : 0.090064 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO month : 0.074379 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO treatment : 0.070485 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO develop : 0.066791 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO dr : 0.031327 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO drug : 0.031327 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO ate : 0.021892 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO period : 0.019579 
+Tue, 05 Sep 2017 20:48:31 Test.py[line:41] INFO skip : 0.015663 
+Tue, 05 Sep 2017 20:48:32 PLsi.py[line:42] INFO [ iteration ] step 1
+Tue, 05 Sep 2017 20:48:32 PLsi.py[line:64] INFO [ iteration ] l2-l1  -115675.441 - -67565.303 = -48110.138 
+Tue, 05 Sep 2017 20:48:32 PLsi.py[line:42] INFO [ iteration ] step 2
+Tue, 05 Sep 2017 20:48:32 PLsi.py[line:64] INFO [ iteration ] l2-l1  -114522.213 - -115675.441 = 1153.228 
+Tue, 05 Sep 2017 20:48:32 PLsi.py[line:42] INFO [ iteration ] step 3
+Tue, 05 Sep 2017 20:48:33 PLsi.py[line:64] INFO [ iteration ] l2-l1  -112642.300 - -114522.213 = 1879.913 
+Tue, 05 Sep 2017 20:48:33 PLsi.py[line:42] INFO [ iteration ] step 4
+Tue, 05 Sep 2017 20:48:33 PLsi.py[line:64] INFO [ iteration ] l2-l1  -109938.660 - -112642.300 = 2703.640 
+Tue, 05 Sep 2017 20:48:33 PLsi.py[line:42] INFO [ iteration ] step 5
+Tue, 05 Sep 2017 20:48:33 PLsi.py[line:64] INFO [ iteration ] l2-l1  -107015.667 - -109938.660 = 2922.994 
+Tue, 05 Sep 2017 20:48:33 PLsi.py[line:42] INFO [ iteration ] step 6
+Tue, 05 Sep 2017 20:48:34 PLsi.py[line:64] INFO [ iteration ] l2-l1  -104646.020 - -107015.667 = 2369.647 
+Tue, 05 Sep 2017 20:48:34 PLsi.py[line:42] INFO [ iteration ] step 7
+Tue, 05 Sep 2017 20:48:34 PLsi.py[line:64] INFO [ iteration ] l2-l1  -103003.424 - -104646.020 = 1642.596 
+Tue, 05 Sep 2017 20:48:34 PLsi.py[line:42] INFO [ iteration ] step 8
+Tue, 05 Sep 2017 20:48:34 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101891.460 - -103003.424 = 1111.964 
+Tue, 05 Sep 2017 20:48:34 PLsi.py[line:42] INFO [ iteration ] step 9
+Tue, 05 Sep 2017 20:48:35 PLsi.py[line:64] INFO [ iteration ] l2-l1  -101085.609 - -101891.460 = 805.851 
+Tue, 05 Sep 2017 20:48:35 PLsi.py[line:42] INFO [ iteration ] step 10
+Tue, 05 Sep 2017 20:48:35 PLsi.py[line:64] INFO [ iteration ] l2-l1  -100449.291 - -101085.609 = 636.318 
+Tue, 05 Sep 2017 20:48:35 PLsi.py[line:42] INFO [ iteration ] step 11
+Tue, 05 Sep 2017 20:48:35 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99942.926 - -100449.291 = 506.365 
+Tue, 05 Sep 2017 20:48:35 PLsi.py[line:42] INFO [ iteration ] step 12
+Tue, 05 Sep 2017 20:48:36 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99536.789 - -99942.926 = 406.137 
+Tue, 05 Sep 2017 20:48:36 PLsi.py[line:42] INFO [ iteration ] step 13
+Tue, 05 Sep 2017 20:48:36 PLsi.py[line:64] INFO [ iteration ] l2-l1  -99210.142 - -99536.789 = 326.647 
+Tue, 05 Sep 2017 20:48:36 PLsi.py[line:42] INFO [ iteration ] step 14
+Tue, 05 Sep 2017 20:48:36 PLsi.py[line:64] INFO [ iteration ] l2-l1  -98959.978 - -99210.142 = 250.164 
+Tue, 05 Sep 2017 20:48:36 PLsi.py[line:42] INFO [ iteration ] step 15
+Tue, 05 Sep 2017 20:48:37 PLsi.py[line:64] INFO [ iteration ] l2-l1  -98762.350 - -98959.978 = 197.627 
+Tue, 05 Sep 2017 20:48:37 PLsi.py[line:42] INFO [ iteration ] step 16
+Tue, 05 Sep 2017 20:48:37 PLsi.py[line:64] INFO [ iteration ] l2-l1  -98601.326 - -98762.350 = 161.024 
+Tue, 05 Sep 2017 20:48:37 PLsi.py[line:42] INFO [ iteration ] step 17
+Tue, 05 Sep 2017 20:48:37 PLsi.py[line:64] INFO [ iteration ] l2-l1  -98465.285 - -98601.326 = 136.041 
+Tue, 05 Sep 2017 20:48:37 PLsi.py[line:42] INFO [ iteration ] step 18
+Tue, 05 Sep 2017 20:48:38 PLsi.py[line:64] INFO [ iteration ] l2-l1  -98345.493 - -98465.285 = 119.792 
+Tue, 05 Sep 2017 20:48:38 PLsi.py[line:42] INFO [ iteration ] step 19
+Tue, 05 Sep 2017 20:48:38 PLsi.py[line:64] INFO [ iteration ] l2-l1  -98243.803 - -98345.493 = 101.690 
+Tue, 05 Sep 2017 20:48:38 PLsi.py[line:42] INFO [ iteration ] step 20
+Tue, 05 Sep 2017 20:48:38 PLsi.py[line:64] INFO [ iteration ] l2-l1  -98156.361 - -98243.803 = 87.442 
+Tue, 05 Sep 2017 20:48:38 PLsi.py[line:42] INFO [ iteration ] step 21
+Tue, 05 Sep 2017 20:48:39 PLsi.py[line:64] INFO [ iteration ] l2-l1  -98075.131 - -98156.361 = 81.229 
+Tue, 05 Sep 2017 20:48:39 PLsi.py[line:42] INFO [ iteration ] step 22
+Tue, 05 Sep 2017 20:48:39 PLsi.py[line:64] INFO [ iteration ] l2-l1  -97998.430 - -98075.131 = 76.701 
+Tue, 05 Sep 2017 20:48:39 PLsi.py[line:42] INFO [ iteration ] step 23
+Tue, 05 Sep 2017 20:48:39 PLsi.py[line:64] INFO [ iteration ] l2-l1  -97929.278 - -97998.430 = 69.153 
+Tue, 05 Sep 2017 20:48:39 PLsi.py[line:42] INFO [ iteration ] step 24
+Tue, 05 Sep 2017 20:48:40 PLsi.py[line:64] INFO [ iteration ] l2-l1  -97871.506 - -97929.278 = 57.771 
+Tue, 05 Sep 2017 20:48:40 PLsi.py[line:42] INFO [ iteration ] step 25
+Tue, 05 Sep 2017 20:48:40 PLsi.py[line:64] INFO [ iteration ] l2-l1  -97822.812 - -97871.506 = 48.694 
+Tue, 05 Sep 2017 20:48:40 PLsi.py[line:42] INFO [ iteration ] step 26
+Tue, 05 Sep 2017 20:48:40 PLsi.py[line:64] INFO [ iteration ] l2-l1  -97779.205 - -97822.812 = 43.607 
+Tue, 05 Sep 2017 20:48:40 PLsi.py[line:42] INFO [ iteration ] step 27
+Tue, 05 Sep 2017 20:48:41 PLsi.py[line:64] INFO [ iteration ] l2-l1  -97740.215 - -97779.205 = 38.990 
+Tue, 05 Sep 2017 20:48:41 PLsi.py[line:42] INFO [ iteration ] step 28
+Tue, 05 Sep 2017 20:48:41 PLsi.py[line:64] INFO [ iteration ] l2-l1  -97706.003 - -97740.215 = 34.212 
+Tue, 05 Sep 2017 20:48:41 PLsi.py[line:42] INFO [ iteration ] step 29
+Tue, 05 Sep 2017 20:48:41 PLsi.py[line:64] INFO [ iteration ] l2-l1  -97674.197 - -97706.003 = 31.806 
+Tue, 05 Sep 2017 20:48:41 PLsi.py[line:42] INFO [ iteration ] step 30
+Tue, 05 Sep 2017 20:48:42 PLsi.py[line:64] INFO [ iteration ] l2-l1  -97642.539 - -97674.197 = 31.658 
+Tue, 05 Sep 2017 20:48:42 PLsi.py[line:42] INFO [ iteration ] step 31
+Tue, 05 Sep 2017 20:48:42 PLsi.py[line:64] INFO [ iteration ] l2-l1  -97613.686 - -97642.539 = 28.853 
+Tue, 05 Sep 2017 20:48:42 PLsi.py[line:42] INFO [ iteration ] step 32
+Tue, 05 Sep 2017 20:48:42 PLsi.py[line:64] INFO [ iteration ] l2-l1  -97591.758 - -97613.686 = 21.928 
+Tue, 05 Sep 2017 20:48:42 PLsi.py[line:42] INFO [ iteration ] step 33
+Tue, 05 Sep 2017 20:48:43 PLsi.py[line:64] INFO [ iteration ] l2-l1  -97574.067 - -97591.758 = 17.691 
+Tue, 05 Sep 2017 20:48:43 PLsi.py[line:66] INFO [ iteration ] End EM 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:33] INFO z = 43, eps = -97574.066572, time = 11.208340
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 0
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO help : 0.369341 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO pleas : 0.145663 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO treatment : 0.082043 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO say : 0.052088 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO soda : 0.049485 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO health : 0.038491 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO wonder : 0.024946 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO gp : 0.013679 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO milk : 0.013679 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO chang : 0.012944 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 1
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO need : 0.238163 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO affect : 0.099268 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO bodi : 0.089341 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diabeti : 0.074451 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diet : 0.034744 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO come : 0.034744 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO system : 0.024830 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO syring : 0.019853 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO heard : 0.017422 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO hyperglycemia : 0.014890 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 2
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO metformin : 0.158447 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO medicin : 0.126758 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO patient : 0.120420 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO take : 0.091461 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO pressur : 0.076055 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO mg : 0.050703 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO reduc : 0.050702 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO sound : 0.038027 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO capsul : 0.012676 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO night : 0.012652 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 3
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diabet : 0.820582 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO someon : 0.057927 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO revers : 0.041874 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diseas : 0.018206 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO sweet : 0.009103 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO act : 0.005152 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO style : 0.003641 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO infect : 0.003041 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO pretti : 0.002243 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO respons : 0.002015 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 4
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO symptom : 0.327996 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO problem : 0.095095 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO earli : 0.032176 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO pregnanc : 0.032156 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diabet : 0.028092 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO age : 0.025859 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO resist : 0.025725 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO high : 0.025725 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO coffe : 0.025724 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO hrs : 0.019294 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 5
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO type : 0.547621 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diabet : 0.385969 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO fruit : 0.009443 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO negat : 0.005667 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO juic : 0.003873 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO teen : 0.003778 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO tip : 0.003774 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO precaut : 0.002086 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO suger : 0.001983 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO orang : 0.001937 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 6
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO make : 0.249643 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO number : 0.134386 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO finger : 0.067212 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO hypertens : 0.048008 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO gain : 0.048008 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO determin : 0.028805 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO knowledg : 0.019203 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO pressur : 0.019202 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO cirrhosi : 0.019169 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO husband : 0.018816 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 7
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO im : 0.573512 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO doctor : 0.093300 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO scare : 0.059020 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO mellitus : 0.047834 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO fall : 0.022642 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO tast : 0.017035 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO chang : 0.016574 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO anyth : 0.012026 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO transfus : 0.011357 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO millitus : 0.011357 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 8
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO a1c : 0.132036 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO lot : 0.104047 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO exercis : 0.058025 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO candi : 0.056251 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO went : 0.039383 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO hemoglobin : 0.034444 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO virus : 0.028704 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO chip : 0.027480 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO snack : 0.023060 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO stand : 0.022963 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 9
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO food : 0.135157 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO tell : 0.096861 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO die : 0.088068 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO realli : 0.071228 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO morn : 0.056971 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO manag : 0.031083 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO ill : 0.031070 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO taken : 0.025906 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO cake : 0.025902 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO chocol : 0.025900 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 10
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO question : 0.260688 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO cant : 0.086896 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diabet : 0.059512 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO consum : 0.043448 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO pancrea : 0.043448 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO teeth : 0.026278 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO stop : 0.017420 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO lost : 0.017387 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO import : 0.017379 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO disadvantag : 0.017379 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 11
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO prediabet : 0.306559 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO healthi : 0.102176 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO tri : 0.034062 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO parent : 0.029318 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO kind : 0.028385 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO child : 0.028385 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO understand : 0.028340 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO okay : 0.024022 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO babi : 0.017031 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO birth : 0.017031 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 12
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO hungri : 0.088481 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diabet : 0.066861 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO form : 0.058988 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO cooki : 0.058988 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO thank : 0.049196 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO skin : 0.044241 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO artifici : 0.044241 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO contagi : 0.029494 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO sweetner : 0.029494 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO sentenc : 0.029494 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 13
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diabet : 0.800874 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO sign : 0.061466 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO dad : 0.018707 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO buy : 0.016679 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO boyfriend : 0.016035 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO monitor : 0.016035 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO banana : 0.013362 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO choic : 0.010690 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO confus : 0.010690 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO school : 0.007079 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 14
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO use : 0.129529 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO danger : 0.104259 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO said : 0.091785 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO idea : 0.055174 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO eat : 0.044832 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO coke : 0.041393 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO dizzi : 0.036833 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO breakfast : 0.033737 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO lunch : 0.024532 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO substitut : 0.024531 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 15
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO get : 0.737045 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO needl : 0.033739 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO strip : 0.026621 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO donut : 0.021059 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO smoke : 0.012635 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO hypoglycem : 0.012635 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO alway : 0.012635 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO see : 0.008424 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO prick : 0.008424 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO bare : 0.004212 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 16
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO dont : 0.258759 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO pee : 0.163881 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO wake : 0.058693 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO time : 0.056534 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO night : 0.043106 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO water : 0.043083 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO amount : 0.034501 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO tire : 0.034501 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO lot : 0.030104 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO walk : 0.025876 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 17
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO blood : 0.898523 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO sugar : 0.028261 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO rais : 0.015485 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO male : 0.011061 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO uncontrol : 0.008845 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO crash : 0.006636 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO spike : 0.006576 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO sampl : 0.004424 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO fastingi : 0.002212 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO newli : 0.002212 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 18
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO caus : 0.362873 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO peopl : 0.168157 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO start : 0.077589 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO honey : 0.036359 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO hand : 0.018986 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO pain : 0.013570 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO case : 0.009090 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO shake : 0.009090 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO oprat : 0.009090 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO heart : 0.009090 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 19
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO hour : 0.167443 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO keep : 0.100466 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO show : 0.070164 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO eat : 0.064454 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO bring : 0.033489 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO medic : 0.033489 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO gram : 0.033489 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO drop : 0.033489 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO hurt : 0.027907 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO rang : 0.027889 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 20
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO sometim : 0.068865 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO sell : 0.061978 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO minut : 0.041319 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO suicid : 0.034432 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO wait : 0.034430 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO okay : 0.025948 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO depress : 0.020665 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO acid : 0.020661 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO needl : 0.020660 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO son : 0.020659 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 21
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO day : 0.325778 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO give : 0.125969 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO kidney : 0.091616 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO told : 0.085890 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO worri : 0.074438 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO doctor : 0.063892 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO donat : 0.028630 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO death : 0.022904 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO money : 0.022384 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO brother : 0.017178 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 22
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO check : 0.223585 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO time : 0.191721 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO ii : 0.091727 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO shot : 0.034398 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO leg : 0.028971 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO wont : 0.028664 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO night : 0.023259 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO headach : 0.017199 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO alot : 0.017148 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO friend : 0.011829 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 23
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO put : 0.085562 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO find : 0.085512 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO thirsti : 0.061283 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO lack : 0.049027 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO spread : 0.049027 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO extrem : 0.036820 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO brain : 0.036770 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO choos : 0.036770 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO appetit : 0.036770 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO goe : 0.024513 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 24
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO test : 0.482376 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO know : 0.150835 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO result : 0.049948 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO sugari : 0.030652 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO realli : 0.027800 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO isnt : 0.017541 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO medicar : 0.013156 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO shaki : 0.013156 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO swollen : 0.013155 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO dr : 0.011911 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 25
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diagnos : 0.196781 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO mean : 0.142120 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO develop : 0.103857 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO meter : 0.076526 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO work : 0.044543 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO pill : 0.038263 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO daili : 0.032797 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO sinc : 0.027340 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO hypoglycemia : 0.027331 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO averag : 0.027331 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 26
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO look : 0.109372 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO eye : 0.089486 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO answer : 0.089486 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diabet : 0.078034 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO vision : 0.070277 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO dr : 0.051754 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO point : 0.039772 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO pain : 0.033807 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO hit : 0.029829 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO survey : 0.019886 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 27
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO drink : 0.421239 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO water : 0.067433 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO loss : 0.050549 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO cut : 0.042124 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO machin : 0.033699 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diabet : 0.025710 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO beer : 0.025278 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO wine : 0.025274 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO love : 0.023495 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO disabl : 0.016850 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 28
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO sugar : 0.910496 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO blood : 0.020274 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO everi : 0.009772 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO salt : 0.004607 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO tester : 0.004389 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO mgdl : 0.002424 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO granul : 0.002194 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO firm : 0.002194 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO enabl : 0.002194 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO extend : 0.002194 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 29
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO eat : 0.567502 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO want : 0.069630 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO foot : 0.040601 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO food : 0.030232 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO mother : 0.024575 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO age : 0.024400 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO anyth : 0.014746 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO brother : 0.012990 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO hi : 0.012858 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO bread : 0.012288 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 30
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diabet : 0.260149 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO think : 0.170587 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO risk : 0.076253 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO possibl : 0.068235 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO care : 0.037828 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO mani : 0.035081 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO neuropathi : 0.024936 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO advic : 0.022745 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO concern : 0.018954 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO job : 0.015163 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 31
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO pre : 0.176230 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diabet : 0.065519 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO carb : 0.061003 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO consid : 0.061003 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO cholesterol : 0.040669 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO rice : 0.033890 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO lead : 0.033890 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO eaten : 0.033889 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO brother : 0.033344 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO doesnt : 0.027597 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 32
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO go : 0.372424 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO person : 0.177268 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO fat : 0.026602 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO someth : 0.022179 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO becom : 0.022174 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO pain : 0.014775 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO liver : 0.013301 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO cours : 0.013301 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO experi : 0.013301 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO children : 0.013098 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 33
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diabet : 0.226986 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO life : 0.130717 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO doctor : 0.111013 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO friend : 0.053781 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO sex : 0.050283 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO natur : 0.050277 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO see : 0.023757 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO solut : 0.020113 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO treat : 0.020113 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO non : 0.015085 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 34
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO happen : 0.156703 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO differ : 0.126994 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO got : 0.098206 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO pass : 0.044172 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO condit : 0.033128 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO abl : 0.022086 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO chees : 0.022081 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO mouth : 0.022078 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO fast : 0.020869 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO plane : 0.016564 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 35
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO month : 0.124955 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO effect : 0.103561 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO chanc : 0.088651 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO side : 0.059178 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO period : 0.036986 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO breakfast : 0.033280 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO freak : 0.029589 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO med : 0.026907 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO pump : 0.022192 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO light : 0.022192 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 36
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diabet : 0.236230 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO cure : 0.171961 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO weight : 0.127095 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO alcohol : 0.041133 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO lose : 0.039305 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO drug : 0.039305 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO heart : 0.024589 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO problem : 0.020702 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO bake : 0.019653 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diagnosi : 0.019284 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 37
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO mom : 0.292470 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO insur : 0.081224 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO tingl : 0.064993 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO vein : 0.064993 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO person : 0.063812 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO happen : 0.048745 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO believ : 0.032518 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO ml : 0.032492 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO unit : 0.028651 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO earli : 0.016248 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 38
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO feel : 0.264569 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO husband : 0.077053 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO prevent : 0.067838 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO came : 0.054270 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO type2 : 0.038088 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diabet : 0.037977 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO alreadi : 0.033919 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO destroy : 0.031732 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO kid : 0.023207 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO junk : 0.020351 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 39
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO insulin : 0.365412 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO take : 0.235621 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO meal : 0.050034 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO anyon : 0.049311 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO use : 0.034846 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO inject : 0.029630 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO lantus : 0.021756 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO stop : 0.019759 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO unit : 0.018680 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO lancet : 0.016461 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 40
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO year : 0.257840 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO control : 0.120026 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO way : 0.104747 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO feet : 0.084603 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO scare : 0.046714 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO girl : 0.032214 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO diabet : 0.029596 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO leg : 0.027241 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO ate : 0.024096 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO hand : 0.021235 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 41
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO glucos : 0.400212 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO read : 0.141903 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO urin : 0.052659 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO night : 0.035345 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO week : 0.027636 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO ok : 0.026330 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO fructos : 0.015798 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO wors : 0.015797 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO today : 0.015358 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO ate : 0.015232 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:36] INFO Topic 42
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO level : 0.624440 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO blood : 0.128027 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO nurs : 0.025177 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO toe : 0.025034 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO chang : 0.016328 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO increas : 0.016313 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO explain : 0.015107 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO reus : 0.015107 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO prefer : 0.010072 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:41] INFO half : 0.010072 
+Tue, 05 Sep 2017 20:48:43 Test.py[line:44] INFO done
